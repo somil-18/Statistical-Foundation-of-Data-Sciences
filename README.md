@@ -1,9 +1,3 @@
-Of course\! Here is a general, well-structured README template you can use for a GitHub repository that hosts your statistics practicals. Just copy the text below and paste it into a `README.md` file.
-
-You can easily **edit the sections** to fit the specifics of your coursework.
-
------
-
 # Statistics and Data Analysis Practicals 📊
 
 Welcome to my repository for statistics practicals\! This collection contains all my lab work, assignments, and projects completed as part of my statistics coursework. Each practical focuses on applying theoretical concepts to datasets using modern data analysis tools.
@@ -17,7 +11,7 @@ This repository is organized by practical number. Below is a list of all the ass
   * **Practical 01: Descriptive Statistics**
 
       * **Description:** This practical covers the fundamentals of descriptive statistics. I calculated measures of central tendency (mean, median, mode) and dispersion (variance, standard deviation) and created visualizations like histograms and box plots to understand data distributions.
-      * **File:** `[Practical_01.ipynb](./path/to/your/Practical_01.ipynb)`
+      * **File:** `[Practical_01.ipynb](https://github.com/somil-18/Statistical-Foundation-of-Data-Sciences/blob/main/stats_Assigment1.ipynb)`
 
   * **Practical 02: Hypothesis Testing**
 
@@ -27,7 +21,7 @@ This repository is organized by practical number. Below is a list of all the ass
   * **Practical 03: Linear Regression**
 
       * **Description:** In this practical, I built a simple linear regression model to explore the relationship between two variables. The analysis includes model training, prediction, and evaluation using metrics like R-squared.
-      * **File:** `[Practical_03.ipynb](./path/to/your/Practical_03.ipynb)`
+      * **File:** `[Practical_03.ipynb](https://github.com/somil-18/Statistical-Foundation-of-Data-Sciences/blob/main/stats_pratical3.ipynb)`
 
   * ***... (Add a new entry for each practical you complete)***
 
@@ -64,7 +58,7 @@ To run any of the practicals on your local machine, follow these steps:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/somil-18/Statistical-Foundation-of-Data-Sciences
     ```
 2.  Navigate to the practical's directory.
 3.  Ensure you have the required libraries installed (you can create a `requirements.txt` file for convenience).
