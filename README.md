@@ -8,25 +8,6 @@ Welcome to my repository for statistics practicals\! This collection contains al
 
 This repository is organized by practical number. Below is a list of all the assignments included.
 
-  * **Practical 01: Descriptive Statistics**
-
-      * **Description:** This practical covers the fundamentals of descriptive statistics. I calculated measures of central tendency (mean, median, mode) and dispersion (variance, standard deviation) and created visualizations like histograms and box plots to understand data distributions.
-      * **File:** `[Practical_01.ipynb](https://github.com/somil-18/Statistical-Foundation-of-Data-Sciences/blob/main/stats_Assigment1.ipynb)`
-
-  * **Practical 02: Hypothesis Testing**
-
-      * **Description:** This assignment focuses on inferential statistics. I performed t-tests and Chi-Square tests to validate hypotheses, interpreted p-values, and calculated confidence intervals to draw conclusions from sample data.
-      * **File:** `[Practical_02.ipynb](./path/to/your/Practical_02.ipynb)`
-
-  * **Practical 03: Linear Regression**
-
-      * **Description:** In this practical, I built a simple linear regression model to explore the relationship between two variables. The analysis includes model training, prediction, and evaluation using metrics like R-squared.
-      * **File:** `[Practical_03.ipynb](https://github.com/somil-18/Statistical-Foundation-of-Data-Sciences/blob/main/stats_pratical3.ipynb)`
-
-  * ***... (Add a new entry for each practical you complete)***
-
------
-
 ## 🧠 Key Concepts Covered
 
 Throughout these practicals, I have applied a wide range of statistical methods, including:
